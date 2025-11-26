@@ -59,6 +59,12 @@
 - **LCD_Custom_Characters**: LCD 커스텀 문자 생성
 - **LCD_Random_Characters**: LCD 랜덤 문자 출력
 
+### 10주차 - 서보 모터
+- **Servo_Basic_Sweep**: 서보 모터 기본 제어 (0-180도 왕복)
+- **Servo_Potentiometer_Control**: 가변저항으로 서보 모터 각도 제어
+- **Servo_Speed_Control**: 가변저항으로 서보 모터 회전 속도 제어
+- **Servo_Serial_Control**: 시리얼 통신으로 서보 모터 각도 제어
+
 ## 🛠️ 개발 환경
 
 - **플랫폼**: Arduino
@@ -98,6 +104,7 @@
 - **7주차**: CDS 조도센서, TMP36 온도센서, 부저
 - **8주차**: DM-MSTYLE-EXT 보드, 7 Segment 디스플레이 (내장)
 - **9주차**: DM-MSTYLE-EXT 보드, LCD 1602 (내장)
+- **10주차**: 서보 모터 (SG90 또는 호환), 가변저항
 
 > [!IMPORTANT]
 > **DM-MSTYLE-EXT 보드 안내**  
@@ -116,6 +123,7 @@
 - **6주차**: 타이밍 제어와 비동기 프로그래밍
 - **7주차**: 다양한 센서 활용
 - **8-9주차**: 디스플레이 장치 제어
+- **10주차**: 서보 모터 제어 및 라이브러리 활용
 
 ## �️ 기자재 변경 및 사전 점검 이슈
 
